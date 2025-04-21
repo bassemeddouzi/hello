@@ -1,1 +1,4 @@
-
+function test(){
+    return;
+}
+test()
